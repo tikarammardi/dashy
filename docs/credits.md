@@ -204,17 +204,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/tikarammardi">
+            <img src="https://avatars.githubusercontent.com/u/19359591?v=4" width="80;" alt="tikarammardi"/>
+            <br />
+            <sub><b>Tikaram Mardi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/0n1cOn3">
             <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
             <br />
             <sub><b>0n1cOn3</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AaronPorts">
-            <img src="https://avatars.githubusercontent.com/u/32810520?v=4" width="80;" alt="AaronPorts"/>
-            <br />
-            <sub><b>Artyom</b></sub>
         </a>
     </td></tr>
 </table>
